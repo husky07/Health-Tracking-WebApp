@@ -1,5 +1,6 @@
 # Health-Tracking-Website
 
-Frontend Project: Landing page designing ![MuaKissGIF (2)](https://github.com/husky07/Health-Tracking-WebApp/assets/101525438/5b426402-3309-4dfe-959e-45c013968615)
-![MuaKissGIF](https://github.com/husky07/Health-Tracking-WebApp/assets/101525438/c3537a5a-a0ab-4369-9d34-8e03aaf4a601)
-
+📌 Frontend Project: Landing page designing 
+● A health company's own health tracking app which could be connected to customer’s smart gadgets and be a one-stop platform for all trackable health data. 
+● The company has a reputation of producing eco-friendly packaging for their products, which by themselves are all-natural and organically made. 
+● It aims to minimize environment destructive material use such as plastics, paper and glass type & aspire to share this message visually through their app as well.
