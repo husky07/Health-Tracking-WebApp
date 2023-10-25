@@ -8,6 +8,6 @@
 
 ● It aims to minimize environment destructive material use such as plastics, paper and glass type & aspire to share this     message visually through their app as well.
 
-#Snapshot - have a look
+# Snapshot - have a look
 ![health-tracking-website-picture](https://github.com/husky07/Health-Tracking-WebApp/assets/101525438/2debdbb2-34b3-4e83-b588-55c41a48b1a1)
 
